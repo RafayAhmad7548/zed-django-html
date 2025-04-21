@@ -1,0 +1,4 @@
+name = "Django HTML"
+grammar = "django-html"
+path_suffixes = ["html", "htm"]
+block_comments = ["<!--", "-->"]
