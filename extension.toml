@@ -1,5 +1,5 @@
-id = "django-html"
-name = "Django HTML"
+id = "html-django"
+name = "HTML Django"
 version = "0.0.1"
 schema_version = 1
 authors = ["Rafay Ahmad <rafayahmad1425@gmail.com>"]
@@ -7,6 +7,6 @@ description = "Support for Django Template Language"
 repository = "https://github.com/RafayAhmad7548/zed-django-html"
 
 
-[grammars.django-html]
+[grammars.htmldjango]
 repository = "https://github.com/interdependence/tree-sitter-htmldjango" 
 rev = "3a643167ad9afac5d61e092f08ff5b054576fadf"
